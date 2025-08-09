@@ -1,12 +1,33 @@
-# React + Vite
+# 💵 DolarHoy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web moderna desarrollada con **React + Vite** que muestra la **tasa oficial del dólar (BCV)** en Venezuela y permite realizar conversiones rápidas entre USD ↔ VES.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛ **React 19** – Interfaz de usuario rápida y modular.
+- ⚡ **Vite** – Entorno de desarrollo veloz con HMR.
+- 🎨 **TailwindCSS** – Estilos modernos y responsivos.
+- 🎭 **Framer Motion** – Animaciones fluidas.
+- 📡 **DolarApi** – Fuente de datos oficial.
 
-## Expanding the ESLint configuration
+## ✨ Características
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Visualización en tiempo real de la tasa oficial del dólar.
+- Conversor bidireccional USD ↔ VES.
+- Diseño **Glassmorphism** con animaciones suaves.
+- Responsive y optimizado para dispositivos móviles.
+- Interfaz limpia y minimalista.
+
+## 📷 Captura de pantalla
+
+![Vista previa](./screenshot.png)
+
+## 📦 Instalación y uso
+
+1️⃣ **Clonar el repositorio**
+```bash
+git clone https://github.com/usuario/dolarhoy.git
+cd dolarhoy
+npm install
+npm run dev
+
