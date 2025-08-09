@@ -31,7 +31,7 @@ export default function Navbar() {
 
         <div className="flex items-center gap-2">
           <a
-            href="https://github.com/"
+            href="https://github.com/johnlennonl/DolarHoy?tab=readme-ov-file"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl border border-black/10 dark:border-white/10 hover:bg-black/5 dark:hover:bg-white/5 transition"
